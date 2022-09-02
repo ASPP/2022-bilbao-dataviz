@@ -1,8 +1,8 @@
-# Best practices in data visualization - ASPP 2022, Bilbao
+# Best practices in data visualization - ASPP 2022
 
 ## Content
 
-* **[Best practice in data visualization](slides.pdf)** (**PDF**). Slides accompanning the tutorial.
+* **[Best practice in data visualization](slides.pdf)** (**PDF**). Slides accompanying the tutorial.
 
 * **[Exercise 1: Mastering matplotlib](exercise-1.ipynb)** (**notebook**). In this
     introduction, we'll see how to make a figure and play with the
