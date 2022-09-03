@@ -11,7 +11,7 @@
 
 * **[Exercise 2: Which visualization should I use?](exercise-2.ipynb)** (**notebook**). In this exercise you are given a dataset and you're asked to think, decide and implement a data visualization that will best answer a research question. 
 
-* **[Exercise 3: Working with imags](exercise-3.ipynb)** (**notebook**). Here you will learn how to visualize data as images.
+* **[Exercise 3: Working with images](exercise-3.ipynb)** (**notebook**). Here you will learn how to visualize data as images.
 
 
 
@@ -36,8 +36,8 @@ At the implementation level (code, galleries and how-tos):
 
 
 At the conceptual level :
-- [**Fundamentals of Data Visualization**](https://serialmentor.com/dataviz/), Claus O. Wilke (2019)
+- [**Fundamentals of Data Visualization**](https://serialmentor.com/dataviz/), book by Claus O. Wilke (2019)
 - [**Ten simple rules for better figures**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833), Nicolas P. Rougier, Michael Droettboom, Philip E. Bourne (2014)
 - [**Data Visualization Catalogue**](https://datavizcatalogue.com/)
-- Tufte
+- **Edward Tufte**'s series of books: [The Visual Display of Quantitative Information (1983)](https://www.edwardtufte.com/tufte/books_vdqi), [Envisioning Information (1990)](https://www.edwardtufte.com/tufte/books_ei), [Beautiful Evidence (2006)](https://www.edwardtufte.com/tufte/books_be), etc.
 
