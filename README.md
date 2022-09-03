@@ -18,7 +18,7 @@
 ## Extra-Material (from ASPP-2021)
 
 * **[Scales & projections](https://github.com/ASPP/2021-bordeaux-dataviz/blob/master/03-scale-projection.ipynb)**
-  (**notebook**). Tutorial on different scales scales (log scale, symlog scale, logit scale) and projections
+  (**notebook**). Tutorial on different type of scales (log scale, symlog scale, logit scale) and projections
   (polar, 3D, geographic).
 
 * **[Animation](https://github.com/ASPP/2021-bordeaux-dataviz/blob/master/04-animation.ipynb)** (**notebook**). Animation with
