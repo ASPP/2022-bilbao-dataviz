@@ -2,7 +2,7 @@
 
 ## Content
 
-* **[Best practice in data visualization](slides.pdf)** [here with notes](slides_notes.pdf) (**PDF**). Slides accompanying the tutorial, together with some written notes.
+* **[Best practice in data visualization (slides)](slides.pdf)** [(here slides with notes)](slides_notes.pdf). Slides accompanying the tutorial, together with some written notes.
 
 * **[Exercise 1: Mastering matplotlib](exercise-1.ipynb)** (**notebook**). In this
     introduction, we'll see how to make a figure and play with the
