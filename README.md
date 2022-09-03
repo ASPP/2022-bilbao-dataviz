@@ -2,7 +2,7 @@
 
 ## Content
 
-* **[Best practice in data visualization](slides.pdf)** (**PDF**). Slides accompanying the tutorial.
+* **[Best practice in data visualization](slides.pdf)** [here with notes](slides_notes.pdf) (**PDF**). Slides accompanying the tutorial, together with some written notes.
 
 * **[Exercise 1: Mastering matplotlib](exercise-1.ipynb)** (**notebook**). In this
     introduction, we'll see how to make a figure and play with the
@@ -18,29 +18,26 @@
 ## Extra-Material (from ASPP-2021)
 
 * **[Scales & projections](https://github.com/ASPP/2021-bordeaux-dataviz/blob/master/03-scale-projection.ipynb)**
-  (**notebook**). Matplotlib offers the possibility to use different
-  scales (log scale, symlog scale, logit scale) and projections
-  (polar, 3D, geographic). We'll review a few of them in this lesson.
+  (**notebook**). Tutorial on different scales scales (log scale, symlog scale, logit scale) and projections
+  (polar, 3D, geographic).
 
 * **[Animation](https://github.com/ASPP/2021-bordeaux-dataviz/blob/master/04-animation.ipynb)** (**notebook**). Animation with
-  matplotlib can be created very easily using the animation
-  framework. During this lesson, we'll show how to create an animation
-  and save it as a movie.
+  matplotlib can be created very easily using the animation framework. This notebook shows how to create an animation and save it as a movie.
 
 
-## Resources
+## Further Resources
 
-- [**Scientific Visualization – Python & Matplotlib**](https://github.com/rougier/scientific-visualization-book), Nicolas P. Rougier (2021)
+At the implementation level (code, galleries and how-tos):
+- [**Seaborn library**](https://seaborn.pydata.org/), a library for statistical data visualization. Very recommended as a next step in your learning journey.
+- [**Matplotlib Cheatsheets**](https://matplotlib.org/cheatsheets/), Nicolas P. Rougier (2020)
+- [**Scientific Visualization – Python & Matplotlib**](https://github.com/rougier/scientific-visualization-book), open-source book from Nicolas P. Rougier (2021)
+- [**Python Graph Gallery**](https://python-graph-gallery.com/), Yan Holtz (2017)
+- [**Matplotlib Gallery**](https://matplotlib.org/stable/gallery/index.html), Matplotlib team
+
+
+At the conceptual level :
 - [**Fundamentals of Data Visualization**](https://serialmentor.com/dataviz/), Claus O. Wilke (2019)
-- **[Matplotlib Cheatsheets]**, Nicolas P. Rougier (2020)
-- **[Python Graph Gallery]**, Yan Holtz (2017)
-- **[Matplotlib Gallery]**, Matplotlib team
-- **[Ten simple rules for better figures]**, Nicolas P. Rougier, Michael Droettboom, Philip E. Bourne (2014)
+- [**Ten simple rules for better figures**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833), Nicolas P. Rougier, Michael Droettboom, Philip E. Bourne (2014)
+- [**Data Visualization Catalogue**](https://datavizcatalogue.com/)
+- Tufte
 
-
-<!-- Links -------------------------------------------------------------------->
-[Matplotlib cheatsheets]: https://github.com/matplotlib/cheatsheets
-[Matplotlib Gallery]: https://matplotlib.org/stable/gallery/index.html
-[Data Visualization Catalogue]: https://datavizcatalogue.com/
-[Python Graph Gallery]: https://python-graph-gallery.com/
-[Ten simple rules for better figures]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833
