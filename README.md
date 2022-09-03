@@ -2,7 +2,7 @@
 
 ## Content
 
-* **[Best practice in data visualization (slides)](slides.pdf)** [(here slides with notes)](slides_notes.pdf). Slides accompanying the tutorial, together with some written notes.
+* **[Best practice in data visualization (slides)](slides.pdf)** [(here slides with notes)](slides-notes.pdf). Slides accompanying the tutorial, together with some written notes.
 
 * **[Exercise 1: Mastering matplotlib](exercise-1.ipynb)** (**notebook**). In this
     introduction, we'll see how to make a figure and play with the
@@ -28,7 +28,7 @@
 ## Further Resources
 
 At the implementation level (code, galleries and how-tos):
-- [**Seaborn library**](https://seaborn.pydata.org/), a library for statistical data visualization. Very recommended as a next step in your learning journey.
+- [**Seaborn**](https://seaborn.pydata.org/), a python library for statistical data visualization. Very recommended as a next step in your learning journey.
 - [**Matplotlib Cheatsheets**](https://matplotlib.org/cheatsheets/), Nicolas P. Rougier (2020)
 - [**Scientific Visualization – Python & Matplotlib**](https://github.com/rougier/scientific-visualization-book), open-source book from Nicolas P. Rougier (2021)
 - [**Python Graph Gallery**](https://python-graph-gallery.com/), Yan Holtz (2017)
