@@ -36,8 +36,14 @@ At the implementation level (code, galleries and how-tos):
 
 
 At the conceptual level :
-- [**Fundamentals of Data Visualization**](https://serialmentor.com/dataviz/), book by Claus O. Wilke (2019)
+
 - [**Ten simple rules for better figures**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833), Nicolas P. Rougier, Michael Droettboom, Philip E. Bourne (2014)
+- [**Fundamentals of Data Visualization**](https://serialmentor.com/dataviz/), book by Claus O. Wilke (2019)
+- [**Chart Suggestions - a though-starter**](data/Abelas-Chart-Selection-Diagram.jpg) by A. Abelas.
 - [**Data Visualization Catalogue**](https://datavizcatalogue.com/)
 - **Edward Tufte**'s series of books: [The Visual Display of Quantitative Information (1983)](https://www.edwardtufte.com/tufte/books_vdqi), [Envisioning Information (1990)](https://www.edwardtufte.com/tufte/books_ei), [Beautiful Evidence (2006)](https://www.edwardtufte.com/tufte/books_be), etc.
 
+Interactive visualizations:
+
+- [**Widgets in Jupyter notebook**](https://ipywidgets.readthedocs.io/en/stable/examples/Using%20Interact.html)
+- [**Plotly**](https://plotly.com/python/)
